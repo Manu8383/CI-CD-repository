@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Spring Boot Hello World
 
 **A simple Spring Boot 2.x app to send hello world message to a user**
@@ -49,3 +50,6 @@
   <br/>```mvn -Dtest=HelloWorldControllerTest test```
   <br/>or
   <br/>```mvn -Dtest=HelloWorldApplicationTests test```
+=======
+# CI-CD-repository
+>>>>>>> 5f7e95934598826acc274b3948e142a4e4a8b0c3
